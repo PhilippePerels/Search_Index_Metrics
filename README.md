@@ -12,17 +12,6 @@ Welcome to the **Luxury Brand Metrics Dashboard**! This interactive dashboard al
 - **Correlation Heatmap**: Understand the relationships between different metrics with an easy-to-read heatmap.
 - **Responsive Design**: Optimized for various screen sizes to ensure a seamless user experience.
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Deployment](#deployment)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
 ## Installation
 
 Follow these steps to set up the project locally:
