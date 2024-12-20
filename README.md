@@ -1,8 +1,4 @@
-# Search_Index_Metrics
-
-# Luxury Brand Metrics Dashboard
-
-![Streamlit Banner](https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png)
+# Search_Index_Metrics_Dashboard
 
 ## Overview
 
